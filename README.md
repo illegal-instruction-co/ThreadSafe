@@ -1,4 +1,5 @@
-# Ring3 Thread Safety Checks for Windows
+# Ring3 Thread Safety Checks for Windows ![GitHub](https://img.shields.io/github/license/illegal-instruction-co/ThreadSafe?logo=ThreadSafe) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/illegal-instruction-co/ThreadSafe)
+
 
 This code handles thread safety checks in primative level. 
 
